@@ -230,7 +230,7 @@ jtxtspesial.setText("Dokter Umum");
 jtxtwaktu.setText(" Pagi (07.00-15.00)");
 }
 else
-if(jconadokt.getSelectedItem().equals("DR. Anisa Putri ")){
+if(jconadokt.getSelectedItem().equals("DR. Anisa Putri")){
 jtxtnama.setText("DR. Anisa Putri");
 jtxtalamat.setText("Jl. Veteran 3, Malang");
 jtxtusia.setText("20 Tahun");
@@ -242,7 +242,7 @@ jtxtspesial.setText("Dokter Gigi");
 jtxtwaktu.setText(" Sore (16.00-22.00)");
 }
 else
-if(jconadokt.getSelectedItem().equals("DR. Harun Fajar ")){
+if(jconadokt.getSelectedItem().equals("DR. Harun Fajar")){
 jtxtnama.setText("DR. Harun Fajar ");
 jtxtalamat.setText("Jl. Bandung 9, Malang");
 jtxtusia.setText("20 Tahun");
